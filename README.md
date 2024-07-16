@@ -19,11 +19,11 @@ El programa permite acceder a diferentes divisas gracias al uso de un API. Graci
 
 ![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Libro%20guardado.png)
 
-* _lISTA AUTOR REGISTRADO_.
+* _LISTA AUTOR REGISTRADO_.
 
 ![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20autor%20registrado.png)
 
-* _lISTA AUTORES VIVOS_.
+* _LISTA AUTORES VIVOS_.
 
 ![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20autores%20vivios.png)
 
@@ -31,7 +31,7 @@ El programa permite acceder a diferentes divisas gracias al uso de un API. Graci
 
 ![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20libro%20por%20idioma.png)
 
-* _lISTA LIBRO REGISTRADO_.
+* _LISTA LIBRO REGISTRADO_.
 
 ![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20libro%20registrado.png)
 
