@@ -1,13 +1,14 @@
-# Challenge-Conversor
-Permite al usuario convertir ciertas divisas como lo es el dolar americano a diferentes monedas extranjeras como el peso mexicano, argentino y brasileño.
+# Challenge-LiterAlura
+Permite al usuario hacer buna busqueda profunda acerca de un libro, sus propiedades como autores, idioma y guardarlos en una lista.
 
 ## Acerca del challenge 🔥
-El programa permite acceder a diferentes divisas gracias al uso de un API. Gracias tambien al uso de Json, Spring Data JPA, PostgreSQL Driver para el filtrado de las mismas.
+El programa permite acceder a diferentes refrencias de libros gracias al uso de un API. Gracias tambien al uso de Json, Spring Data JPA, PostgreSQL Driver para el filtrado de las mismas.
 
 ### Libreria & servicios 📚
 * _[GSON](https://central.sonatype.com/artifact/com.google.code.gson/gson?smo=true)_
 * _[SPRING DATA JPA](https://spring.io/projects/spring-data-jpa)_
 * _[POSTGRESQL](https://www.postgresql.org/)_
+* _[API](https://gutendex.com/)_
 
 
 ### Programa 👾
