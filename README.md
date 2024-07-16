@@ -11,13 +11,33 @@ El programa permite acceder a diferentes divisas gracias al uso de un API. Graci
 
 
 ### Programa 👾
-* _Menu principal_.
+* _BIENVENIDA_.
 
 ![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Bienvenida.png)
 
-* _Conversor_.
+* _LIBRO GUARDADO_.
 
-![](https://github.com/4l3xs/Challenge/blob/master/conversion.png)
+![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Libro%20guardado.png)
+
+* _lISTA AUTOR REGISTRADO_.
+
+![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20autor%20registrado.png)
+
+* _lISTA AUTORES VIVOS_.
+
+![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20autores%20vivios.png)
+
+* _LISTA LIBRO POR IDIOMA_.
+
+![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20libro%20por%20idioma.png)
+
+* _lISTA LIBRO REGISTRADO_.
+
+![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Lista%20libro%20registrado.png)
+
+* _SALIR_.
+
+![Imagenes challenge](https://github.com/4l3xs/literalura/blob/master/Imagenes%20challenge/Salir.png)
 
 ### Compilador 📽️
 
