@@ -4,7 +4,7 @@ Permite al usuario convertir ciertas divisas como lo es el dolar americano a dif
 ## Acerca del challenge 🔥
 El programa permite acceder a diferentes divisas gracias al uso de un API. Gracias tambien al uso de Json, Spring Data JPA, PostgreSQL Driver para el filtrado de las mismas.
 
-### Libreria & key 📚
+### Libreria & servicios 📚
 * _[GSON](https://central.sonatype.com/artifact/com.google.code.gson/gson?smo=true)_
 * _[SPRING DATA JPA](https://spring.io/projects/spring-data-jpa)_
 * _[POSTGRESQL](https://www.postgresql.org/)_
