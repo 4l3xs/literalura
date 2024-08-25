@@ -1,5 +1,5 @@
 # Challenge-LiterAlura
-Permite al usuario hacer buna busqueda profunda acerca de un libro, sus propiedades como autores, idioma y guardarlos en una lista.
+Permite al usuario hacer una busqueda profunda acerca de un libro, sus propiedades como autores, idioma y guardarlos en una lista.
 
 ## Acerca del challenge 🔥
 El programa permite acceder a diferentes refrencias de libros gracias al uso de un API. Gracias tambien al uso de Json, Spring Data JPA, PostgreSQL Driver para el filtrado de las mismas.
